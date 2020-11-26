@@ -1,0 +1,12 @@
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe.config
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\bin\Debug\TrainingPractice_02.pdb
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.csprojAssemblyReference.cache
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form1.resources
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.Properties.Resources.resources
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.GenerateResource.cache
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.exe
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.pdb
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form2.resources
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form3.resources
